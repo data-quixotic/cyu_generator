@@ -22,7 +22,7 @@ def generate_cyu():
             These questions should reflect higher levels of Bloom's taxonomy when possible.
             
             Output the question, four answer choices, the correct answer, and level of Bloom's taxonomy as 
-            columns in a table."""}
+            separate columns in a table."""}
         ],
         temperature=0.6
     )

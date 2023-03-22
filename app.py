@@ -37,7 +37,7 @@ def return_to_generator():
 if 'flow' not in st.session_state or st.session_state.flow == 0:
     st.session_state.flow = 0
 
-    st.title("Check Your Understanding Question Generator:")
+    st.title("Check Your Understanding Question Generator :pencil:")
 
     st.markdown("### Greetings, let's create some check your understanding questions!")
 
